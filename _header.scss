@@ -1,5 +1,5 @@
 .header{
-    background-image: url(img/porta.webp);
+    background-image: url(https://images.pexels.com/photos/532561/pexels-photo-532561.jpeg?cs=srgb&dl=pexels-scott-webb-532561.jpg&fm=jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -22,9 +22,6 @@
     
     }
 
-    .vh-50{
-        height: 50vmin;
-    }
 
     
 .img-logo{
@@ -33,11 +30,5 @@
         
 }
 
-/* MEDIA QUERIES*/
-@media screen and (max-width: 430px) {
-    .vh-50{
-        height: 50vhmax;
-    }
-    
-}
+
 
