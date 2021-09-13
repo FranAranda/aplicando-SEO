@@ -1,5 +1,14 @@
+
+
+$colors:(
+    violet:#FF1493
+    blue:#7B68EE
+) ;
+
+
 /*servicios*/
 .icon-service{
+    background: map-get($colors,blue);
     box-sizing: 70px;
     width: 70px;
     height: 70px;

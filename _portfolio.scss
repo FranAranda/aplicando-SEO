@@ -1,3 +1,5 @@
+$color1: #FF1493;
+
 /*portfolio*/
 .row {
     display: flex;
@@ -57,4 +59,8 @@
     .column img {
       filter: grayscale(0) brightness(1);
     }
+  }
+
+  .title{
+    color: $color1;
   }

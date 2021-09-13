@@ -1,3 +1,4 @@
+$color1: #FF1493;
 /*CARDS*/
 .card-img-filter{
     filter: brightness(0.5);
@@ -39,3 +40,6 @@
     transform: scale(0.9);
 }
 
+.title{
+    color: $color1;
+}
